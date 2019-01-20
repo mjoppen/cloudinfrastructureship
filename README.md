@@ -31,8 +31,8 @@ So that the captain is not washed away by big waves, he has a cab.
 The ship is now ready to go.
 
 # Explaining (draw descriptions)
-As you can imagine, the animals are not animals but applications.
-The boxes in which the animals live are containers.
+As you can imagine, the animals are not animals but applications, in this case microservices.
+The boxes in which the animals live are containers. The windows are the APIs.
 The fence between the horse and the cat is marking the app-pods and their services.
 
 
